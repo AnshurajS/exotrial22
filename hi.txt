@@ -7,4 +7,7 @@ f
 g
 adding a new line
 you can double check
-no no no
+<<<<<<< HEAD
+=======
+triple checking
+>>>>>>> 24a84e45359f4b8d97db1cb638117cba70dff0ba
